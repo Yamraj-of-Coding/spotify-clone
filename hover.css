@@ -1,0 +1,55 @@
+.container .side_bar .search:hover {
+
+             opacity: 100%;
+}
+
+.container .library .option a:hover {
+
+    opacity: 100%;
+}
+
+.container .library .icons i:hover {
+
+    opacity: 100%;
+}
+.badge:hover {
+
+    color: #212121;
+    background-color: #ffffff;
+}
+
+.container .main_content .nav_bar .nav_bar_options .download_icon:hover{
+
+    color: #fff;
+    background-color: #000000;
+
+}
+.container .library .boxes .box1:hover {
+     
+      box-shadow: 0 0 4px #ffffff;
+      transform: scale(1.01);
+}
+
+.container .library .boxes .box2:hover {
+     
+    box-shadow: 0 0 4px #ffffff;
+    transform: scale(1.01);
+}
+
+.container .main_content .multiverse_of_cards .cards_container .card:hover {
+
+    box-shadow: 0 0 4px #404040;
+    transform: scale(1.01);
+}
+
+.media_icons .play:hover{
+
+    opacity: 1;
+}
+
+.container .media_player .left_part .songto:hover {
+
+    opacity: 1;
+    text-decoration: underline solid 2px white;
+
+}
